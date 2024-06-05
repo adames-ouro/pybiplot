@@ -2,6 +2,8 @@
 
 This aims to reproduce the R's biplot visual for PCA where the visual combines both the scores and loadings. You'll see arrows representing the original variables' contributions to each principal component, and you'll also see how the data points project onto the components.
 
+PyPi link: [PyPi link](https://pypi.org/project/PyBiPlot/)
+
 ### Features:
 
 - `Flexibility through Optional Parameters:` Multiple optional parameters allow users to customize the plot's appearance.
