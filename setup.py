@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="PyBiPlot",
-    version="0.0.3",
+    version="0.0.4",
     author="Carlos A. Adames Ramos",
     author_email="carlos.adames.ramos@gmail.com",
     description="R's BiPlot visual for PCA in Python",
