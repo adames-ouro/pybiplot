@@ -4,6 +4,8 @@ This aims to reproduce the R's biplot visual for PCA where the visual combines b
 
 PyPi link: [PyPi link](https://pypi.org/project/PyBiPlot/)
 
+Explanation of PCA and PyBiPlot usecase link: [PCA link](https://github.com/adames-ouro/PyBiPlot/blob/main/Example_of_use/Dimensionality%20Reduction%20-%20PCA.ipynb)
+
 ### Features:
 
 - `Flexibility through Optional Parameters:` Multiple optional parameters allow users to customize the plot's appearance.
