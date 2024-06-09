@@ -12,8 +12,6 @@ Explanation of PCA and PyBiPlot usecase link: [PCA link](https://github.com/adam
 
 - `Support for Overlaying Plots:` Users can decide to overlay the samples and loadings plots or display them side by side.
 
-- `Conditional Coloring based on Discrete Variables:` If provided, the plot can color samples based on the discrete variables' values.
-
 - `Dynamic Labeling:` The script supports dynamic labeling based on the actual values of the projected data, loadings, and explained variances.
 
 - `Arrow Representations for Loadings:` Loadings are represented as arrows, pointing in the direction and magnitude of the loading.
