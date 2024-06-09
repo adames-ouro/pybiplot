@@ -1,1 +1,1 @@
-from .PyBiPlot import BiPlot
+from .pybiplot import BiPlot
