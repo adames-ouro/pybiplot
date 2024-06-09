@@ -2,5 +2,5 @@ ipykernel
 pandas
 numpy
 matplotlib
-PyBiPlot
+pybiplot==0.0.6
 scikit-learn

@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="pybiplot",
-    version="0.0.4",
+    version="0.0.6",
     author="Carlos A. Adames Ramos",
     author_email="carlos.adames.ramos@gmail.com",
     description="R's BiPlot visual for PCA in Python",
@@ -18,7 +18,7 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.11',
+    python_requires='>=3.6',
     install_requires=[
         'pandas>=2.2.2',
         'matplotlib>=3.9.0'
