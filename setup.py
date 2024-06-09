@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="PyBiPlot",
+    name="pybiplot",
     version="0.0.3",
     author="Carlos A. Adames Ramos",
     author_email="carlos.adames.ramos@gmail.com",
